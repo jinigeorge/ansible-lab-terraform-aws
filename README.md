@@ -1,7 +1,5 @@
 # Ansible Lab - Using Terraform and AWS
 
-*Warning: this is still in-progress and do not use*
-
 Also check **[Terraform IaC Examples ](https://github.com/ginigangadharan/terraform-iac-usecases)**.
 
 Read Full Article here : [Use Terraform to Create a FREE Ansible Lab in AWS](https://www.techbeatly.com/2021/06/use-terraform-to-create-a-free-ansible-lab-in-aws.html)
